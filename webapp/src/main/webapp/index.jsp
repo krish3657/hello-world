@@ -4,7 +4,7 @@
   </div>
 
   <div class="container">
-    <label for="uname"><b>Enter Username</b></label>
+    <label for="uname"><b>Enter Ansible Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
     <label for="psw"><b> New Password</b></label>
