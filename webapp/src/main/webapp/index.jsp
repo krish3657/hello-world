@@ -7,7 +7,7 @@
     <label for="uname"><b>Enter Ansible Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
-    <label for="psw"><b> New Password</b></label>
+    <label for="psw"><b> New Ansible Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
     <br>
     <button type="submit"> login </button>
