@@ -13,6 +13,9 @@
     <label for="uname"><b>Edited for ansible automation</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
+    <label for="uname"><b>Edited for ansible automation 2</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+    <br>
     <button type="submit"> login </button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
