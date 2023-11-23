@@ -10,7 +10,7 @@
     <label for="psw"><b> New Ansible Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
     <br>
-    <label for="uname"><b>Enter Mobile Number 1</b></label>
+    <label for="uname"><b>Enter Mobile Number 2</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
     <label for="uname"><b>Edited for ansible automation</b></label>
