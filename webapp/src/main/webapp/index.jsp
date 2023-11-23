@@ -29,4 +29,5 @@
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot password <a href="#">password?</a></span>
   </div>
+   <h1> Thank you </h1> 
 </form>
